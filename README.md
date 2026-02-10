@@ -6,7 +6,7 @@ I'm a Backend student at NBI Handelsakademin with a passion for Object-Oriented 
 
 🌱 Current Stack: C#, SQL, HTML, CSS.
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/william-ellingsworth-1abb59380/)]
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/william-ellingsworth-1abb59380/)
 
 [####---------------] Learning in progress...
 
