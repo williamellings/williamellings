@@ -8,6 +8,8 @@ I'm a Backend student at NBI Handelsakademin with a passion for Object-Oriented 
 
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/william-ellingsworth-1abb59380/)
 
+💻 Portfolio: https://williamellings.github.io
+
 [####---------------] Learning in progress...
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
